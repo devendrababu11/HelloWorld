@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 20DC-580D
+
+ Directory of C:\Users\dtel\Desktop\New folder
+
+06/19/2024  08:10 AM    <DIR>          .
+06/19/2024  08:10 AM    <DIR>          ..
+06/19/2024  07:35 AM               900 Hello.class
+06/19/2024  07:19 AM               148 hello.java
+06/19/2024  08:07 AM               460 index.html
+06/19/2024  08:10 AM                 0 new.txt
+               4 File(s)          1,508 bytes
+               2 Dir(s)  31,892,381,696 bytes free
